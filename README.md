@@ -1,10 +1,10 @@
 # SwaggerAPi
 
-Ejemplo api minima implementando Swagger
+Ejemplo api mínima implementando Swagger
 
-Faltaria crear vuestra base de datos sql server y cambiar cadena de conexion para funcionamiento.
+Faltaría crear vuestra base de datos sql server y cambiar cadena de conexión para funcionamiento.
 
-Dependencias usadas en el proyecto: 
+Dependencias que se tienen que instalar en el proyecto:
   - Microsoft.EntityFrameworkCore.SqlServer
   - Microsoft.EntityFrameworkCore.Tools
   - Swashbuckle.AspNetCore
